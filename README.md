@@ -1,5 +1,5 @@
 # ☄️ Kaif Saleem
-![Kaif banner](https://github.com/CodeaholicShoaib/CodeaholicShoaib/assets/127685413/0afb0821-2135-4754-859a-0c02f79ebad5)
+![Kaif banner](https://github.com/Kaifsaleem/Kaifsaleem/blob/main/img/kaif%20banner.jpg)
 
 **`code demon (Developer/Blackbox Thinker)`**
 
@@ -10,8 +10,8 @@ Hi there! i am  Kaif Saleem, a 2nd year student with a passion for programming a
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/CodeaholicShoaib#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/CodeaholicShoaib#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/DevoholicShoaib#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/DevoholicShoaib#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/kaifsaleem2004#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/kaifsaleem2004#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/_kokaop#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_kokaop#gh-dark-mode-only)
