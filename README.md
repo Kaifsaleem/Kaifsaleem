@@ -7,8 +7,8 @@ Hi there! i am  Kaif Saleem, a 2nd year student with a passion for programming a
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kaifsaleem#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kaifsaleem#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kaif-saleem#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kaif-saleem#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/kaifsaleem2004#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/kaifsaleem2004#gh-dark-mode-only)
