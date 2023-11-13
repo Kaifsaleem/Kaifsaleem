@@ -1,9 +1,9 @@
-# ☄️ Shoaib Ahmad
+# ☄️ Kaif Saleem
 ![shoaib banner](https://github.com/CodeaholicShoaib/CodeaholicShoaib/assets/127685413/0afb0821-2135-4754-859a-0c02f79ebad5)
 
-**`Digital Knight (Developer/GraphicsDesigner)`**
+**`code demon (Developer/Blackbox Thinker)`**
 
-Hi there! i am Shoaib, a 2nd year student with a passion for programming and design.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that garnered more than 210,000 views.
+Hi there! i am  Kaif Saleem, a 2nd year student with a passion for programming and AI developement and graphic designing.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that gave me a great experience .
 
 ### Connect with me:
 
