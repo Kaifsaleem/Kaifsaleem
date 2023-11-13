@@ -4,7 +4,7 @@
 **`code demon (Developer/Blackbox Thinker)`**
 
 Hi there! i am  Kaif Saleem, a 2nd year student with a passion for programming and AI developement and graphic designing.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that gave me a great experience .
-https://www.linkedin.com/public-profile/settings
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kaif-saleem-81319122a#gh-light-mode-only)
@@ -13,8 +13,8 @@ https://www.linkedin.com/public-profile/settings
 [![website](./img/twitter-light.svg)](https://twitter.com/kaifsaleem2004#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/kaifsaleem2004#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_kokaop#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_kokaop#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 ---
 
