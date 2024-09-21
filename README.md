@@ -3,7 +3,7 @@
 
 **`code demon (Developer/Blackbox Thinker)`**
 
-Hi there! i am  Kaif Saleem, a 2nd year student with a passion for programming and AI developement and graphic designing.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that gave me a great experience .
+Hi there! i am  Kaif Saleem, a 3rd year student with a passion for programming and AI developement and graphic designing.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that gave me a great experience .
 
 ### Connect with me:
 
